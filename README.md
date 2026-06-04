@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myasirfarooqui&label=Profile%20views&color=0e75b6&style=flat" alt="myasirfarooqui" /> </p>
 
-- 🌱 I’m currently learning **React, Angular**
+- 🌱 I’m currently learning **Cypress**
 
 - 👨‍💻 All of my projects are available at [myasir-portfolio.netlify.app](myasir-portfolio.netlify.app)
 
